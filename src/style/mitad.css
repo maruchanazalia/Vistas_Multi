@@ -1,0 +1,18 @@
+.mitad {
+    height: 100vh;
+    width: 50%;
+    background-color: #6391E8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centrar verticalmente */
+    align-items: center; /* Centrar horizontalmente */
+}
+
+.img {
+    width: 40%;
+}
+
+.titulo {
+    color: #234687;
+    font-family: Arial, sans-serif; /* Cambiar la fuente */
+}

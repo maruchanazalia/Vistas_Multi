@@ -1,0 +1,6 @@
+.section{
+display: flex;
+flex-direction: row;
+width: 200vh;
+height: 100%;
+}
